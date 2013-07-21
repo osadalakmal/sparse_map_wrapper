@@ -1,5 +1,5 @@
-sparse_map_wrapper
-==================
+Sparse Map Wrapper for Python
+=============================
 
 This library aims to add an extension that allows the use of google sparse hash map in python 
 in place of the standard dictionary which is very memory inefficient
